@@ -24,6 +24,7 @@
   "homepage": "https://github.com/danillosl/tarefas#readme",
   "dependencies": {
     "body-parser": "^1.17.2",
+    "cors": "^2.8.4",
     "ejs": "^2.5.7",
     "express": "^4.15.4",
     "mongojs": "^2.4.1"
